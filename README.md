@@ -45,8 +45,7 @@
     <a href="https://github.com/MohitSethi99/IlluminoEngine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitSethi99&repo=IlluminoEngine" /></a>
     <a href="https://github.com/MohitSethi99/ArcEngine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitSethi99&repo=ArcEngine" /></a>
     <a href="https://github.com/MohitSethi99/EZUI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitSethi99&repo=EZUI" /></a>
-    <a href="https://github.com/MohitSethi99/EZSound"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitSethi99&repo=EZSound" /></a>
+    <a href="https://github.com/MohitSethi99/PlexusEffect"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitSethi99&repo=PlexusEffect" /></a>
     <a href="https://github.com/MohitSethi99/SpringArmComponent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitSethi99&repo=SpringArmComponent" /></a>
     <a href="https://github.com/MohitSethi99/UnityNotchSolution"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitSethi99&repo=UnityNotchSolution" /></a>
-    <a href="https://github.com/MohitSethi99/PlexusEffect"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitSethi99&repo=PlexusEffect" /></a>
 </p>
