@@ -23,29 +23,3 @@
   <img alt="Mohits Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MohitSethi99&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">
 </p>
 
-<p align="center">
-    <img src="https://img.shields.io/badge/msi-laptop-FF2525?style=for-the-badge&logo=msi&logoColor=FFFFFF">
-    <img src="https://img.shields.io/badge/Intel-i7_10750H-0071C5?style=for-the-badge&logo=intel&logoColor=white">
-    <img src="https://img.shields.io/badge/Kingston-16gb_3600mhz-5D3FD3?style=for-the-badge&logoColor=white">
-    <img src="https://img.shields.io/badge/nvidia-rtx%203060-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white">
-</p>
-
-<p align="center">
-    <img src="https://img.shields.io/badge/msi-B450%20Gaming%20Plus-FF2525?style=for-the-badge&logo=msi&logoColor=FFFFFF">
-    <img src="https://img.shields.io/badge/AMD-Ryzen_5_2600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
-    <img src="https://img.shields.io/badge/G.SKILL-16gb_3600mhz-5D3FD3?style=for-the-badge&logoColor=white">
-    <img src="https://img.shields.io/badge/AMD-Radeon_RX_580-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
-</p>
-
-<br>
-<p align="center">
-    <strong>Pinned</strong>
-</p>
-<p align="center">
-    <a href="https://github.com/MohitSethi99/IlluminoEngine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitSethi99&repo=IlluminoEngine" /></a>
-    <a href="https://github.com/MohitSethi99/ArcEngine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitSethi99&repo=ArcEngine" /></a>
-    <a href="https://github.com/MohitSethi99/EZUI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitSethi99&repo=EZUI" /></a>
-    <a href="https://github.com/MohitSethi99/PlexusEffect"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitSethi99&repo=PlexusEffect" /></a>
-    <a href="https://github.com/MohitSethi99/SpringArmComponent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitSethi99&repo=SpringArmComponent" /></a>
-    <a href="https://github.com/MohitSethi99/UnityNotchSolution"><img src="https://github-readme-stats.vercel.app/api/pin/?username=MohitSethi99&repo=UnityNotchSolution" /></a>
-</p>
