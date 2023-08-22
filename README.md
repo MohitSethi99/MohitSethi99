@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-    <strong>Game/Tool Developer at EA | Graphics Enthusiast</strong>
+    <strong>Engine | Tools | Game Client Programmer at Electronic Arts (EA) | Graphics Enthusiast</strong>
 </p>
 
 <p align='center'>
